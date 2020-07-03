@@ -16,9 +16,9 @@ https://dl.google.com/android/studio/plugins/android-gradle/preview/offline-andr
 https://dl.google.com/android/studio/maven-google-com/stable/offline-gmaven-stable.zip
 
 ### 版本要求（建议）
-Android Studio 3.4.1
-Gradle：5.1.1
-Gradle Plugin：3.4.1
-AppCompat-V7：28.0.0
-ConstraintLayout：1.1.3
-compileSdkVersion/targetSdkVersion：28
+- Android Studio 3.4.1
+- Gradle：5.1.1
+- Gradle Plugin：3.4.1
+- AppCompat-V7：28.0.0
+- ConstraintLayout：1.1.3
+- compileSdkVersion/targetSdkVersion：28
